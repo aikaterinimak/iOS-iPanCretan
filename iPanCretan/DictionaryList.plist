@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>dictLetter</key>
+		<string>Α</string>
+		<key>dictWords</key>
+		<array>
+			<string>Αγαληνα: ηρεμα, σιγα</string>
+			<string>Αγγουρος: νεος, νεανισκος</string>
+			<string>Αγδικιωτος: ανεκδικητος, ατιμωρητος γδικιωνομα</string>
+			<string>Αγκουσα: η στενοχωρια θλιψις</string>
+			<string>Αγκουσευγω, και αγκουσευγομαι: στενοχωρουμαι</string>
+			<string>Αγνωστος: αμαθης ανοητος</string>
+			<string>Αγριμι: το αιγαγρος</string>
+			<string>Αζαπης: φιλος, εταιρος, ο ταλαιπωρος, ο χαημενος</string>
+			<string>Αζιγανια: η δολος, απατη, αδικια ζιγανευγω</string>
+			<string>Αθος: ο τεφρα, οποδος, στακτη</string>
+			<string>Ακατεχος: απειρος, αδαης</string>
+			<string>Ακροκαλος: αρκετα καλος, καλουτσικος</string>
+			<string>Ακρομακρα: ολιγον τι μακραν</string>
+			<string>Ακρομεγαλωνω: μεγαλωνω ολιγον</string>
+			<string>Ακροστενομαι: σταματω ολιγον χρονον</string>
+			<string>Αλαργο: μακραν</string>
+			<string>Αλαγαρης: ο ιπποκομος</string>
+			<string>Αμιρας: αρχων, αφεντης</string>
+			<string>Αμοιαστος: απρεπης, ατοπος, αταιριαστος</string>
+			<string>Αμπωθω: απωθω η αμπωστια</string>
+			<string>Ανακρεμασι: η αβροχια </string>
+			<string>Αναλαβαινω, Αναλαμπανω: αναπτω καιομαι</string>
+			<string>Αναμνηαζω: ενθυμουμαι, σκεπτομαι, φροντιζω</string>
+			<string>Απογι: το απογειος ανεμος, το ψυχος, η πρωινη παχνη</string>
+			<string>Απογλακω: καταδιωκω γλακω</string>
+			<string>Αποκλαμος: παραφυας η ριζα φυτου</string>
+			<string>Απονουμαι: εχθαιρω, μνησικακω Απονεματα απειλαι λογοι σκληροι και μνησικακοι</string>
+			<string>Αποταχια: ταχεως, γρηγορα.</string>
+			<string>Αποφρυσσω: αποξηραινομαι, στειρευω</string>
+			<string>Αργατινη: εσπερα, βραδια</string>
+			<string>Αριφνητος: αναριθμητος</string>
+			<string>Αρνευγω: ειρηνευω, καταπραυνω</string>
+			<string>Ασουσσουμος: αγνωριστος, ελεεινος</string>
+			<string>Ατιε: Ατιες, βεβαιως, μαλιστα</string>
+			<string>Ατονιαρω: ατονω αδρανω</string>
+			<string>Ατυχος :ασθενης, αδυνατος, δειλος.</string>
+			<string>Αφαντος: αφανης, ασημαντος</string>
+			<string>Αφορεσι: υποφια, υπονοια αφορουμαι</string>
+			<string>Αφορμη: Αφορμησι, Αφορμαγρα, η μανια Αφορμαρης=μανιακος εξω φρενων</string>
+			<string>Αφορμιζω: = μαινομαι</string>
+			<string>Αψηφιστος: μικρος, αναξιος προσοχης, ασημαντος απρεπης</string>
+		</array>
+	</dict>
+	<dict>
+		<key>dictLetter</key>
+		<string>Β</string>
+		<key>dictWords</key>
+		<array>
+			<string>Βαβουρα: βομβος, θορυβος βαβουριζω, βομβω, θορυβω</string>
+			<string>Βασται: σχοινακι, κορδονι</string>
+			<string>Βελτονι: (η βερτονι) το βελος</string>
+			<string>Βερσα: στιχοι</string>
+			<string>Βερτζι: ροδινος ροδοχρους</string>
+			<string>Βιγλιζω: κατοπτευω</string>
+			<string>Βουρκα: βορβορος, ιλυς</string>
+			<string>Βρυγια: τα βρυα</string>
+			<string>Βρωσι: τροφη, προσφαγι</string>
+			<string>Βυθος: τα βυθ, η αβυσσος</string>
+		</array>
+	</dict>
+	<dict>
+		<key>dictLetter</key>
+		<string>Γ</string>
+		<key>dictWords</key>
+		<array>
+			<string>Γαληνωσι: η γαληνη, ησυχια, ειρηνη</string>
+			<string>Γδικιωνομαι: εκδικουμαι</string>
+			<string>Γεβεντιζομαι: καταισχυνομαι</string>
+			<string>Γερνομαι: εγειρομαι, σηκωνομαι</string>
+			<string>Γερνω: κλινω, καταβιβαζω</string>
+			<string>Γιαγερνω: Εγιαγειρα, επιστρεφω, επανερχομαι</string>
+			<string>Γιοστρα: η Γκοστρα το κονταροκτυπημα</string>
+			<string>Γλακω: τρεχω το Γλακι= τρεξιμον</string>
+			<string>Γλοτσα: το λακτισμα</string>
+			<string>Γλοτσοπατω: καταπατω</string>
+			<string>Γλυω: γλυτωνω, σωζομαι</string>
+			<string>Γνοιανος: πληρης φροτιζων και μεριμνων και εγνοιανος</string>
+			<string>Γρινια: και ρημα, Γρινιαζω κατηφεια, σκυθρωποτης, σκυθρωπαζω, ειμαι κατηφης.</string>
+		</array>
+	</dict>
+	<dict>
+		<key>dictLetter</key>
+		<string>Δ</string>
+		<key>dictWords</key>
+		<array>
+			<string>Δαμακι: μικρον, ολιγον</string>
+			<string>Δαμινος: ολιγος, μικρος, αμυδρος</string>
+			<string>Διαγω: Διαζω Διαξω Ηδιαξα πραττω, Ενεργω</string>
+			<string>Διαλεγωνας: διαλεγων, εκλεγων</string>
+			<string>Διοχνει: δοκει μοι, αποφασιζω</string>
+			<string>Διωμα: η καλη εξωτερικη παραστασις, ευγενης οφις</string>
+			<string>Διωματαρης: κομφος, χαριτωμενος</string>
+			<string>Δοξαρι: το τοξον Δοξαρατορας ο τοξοτης</string>
+			<string>Δυναζομαι: Εδυναστη δυναμαι</string>
+		</array>
+	</dict>
+	<dict>
+		<key>dictLetter</key>
+		<string>Ε</string>
+		<key>dictWords</key>
+		<array>
+			<string>Εγουγια: αλοιμονον</string>
+			<string>Εκτασσομαι: προτιθεμαι, διανουμαι τι σκοπευω</string>
+			<string>Εντηρησι: ντηρησι</string>
+			<string>Εξα εξουσια: δυναμις</string>
+			<string>Εξοδος: Εξοδες δαπανη, Εξοδον, Κηδεια</string>
+			<string>Ερμιζω: ερημω, καμνω ερημον</string>
+			<string>Εσμιξι: συναντησισ μιξις, γαμος</string>
+		</array>
+	</dict>
+	<dict>
+		<key>dictLetter</key>
+		<string>Ζ</string>
+		<key>dictWords</key>
+		<array>
+			<string>Ζαβαγρα: αδεξιοτης, μωρια</string>
+			<string>Ζαβος: αδεξιος, μωρος</string>
+			<string>Ζαβωνω: καμνω ζαβον, μωραινω</string>
+			<string>Ζαγαρι: κυων κυνηγετικος</string>
+			<string>Ζαρω: συνειθιζω</string>
+			<string>Ζαφειρομπαλασα: ζαφειρια και μπαλασια (=ροθβινια)</string>
+			<string>Ζιγανευγω: και αζιγανευγω ομαι, απατω, δολιευουμαι</string>
+			<string>Ζιμιο: και Το Ζιμιο ευθυς αμεσως, λοιπον. </string>
+			<string>Ζουγλος: αναπηρος</string>
+			<string>Ζουγλοχερης: κουλος, κουλοχερης</string>
+			<string>Ζουλιζω: σθμπιεζω, εκθλιβω</string>
+			<string>Ζυγωνω: διωκω, εκδιωκω</string>
+		</array>
+	</dict>
+	<dict>
+		<key>dictLetter</key>
+		<string>Η</string>
+		<key>dictWords</key>
+		<array>
+			<string>Ηθη: συνηθεια, τα εθιμα</string>
+			<string>Ηλικια: το αναστημα </string>
+		</array>
+	</dict>
+	<dict>
+		<key>dictLetter</key>
+		<string>Θ</string>
+		<key>dictWords</key>
+		<array>
+			<string>Θανατερος: θανασιμος, θανατηφορος</string>
+			<string>Θετω: κατακλινομαι, πλαγιαζω</string>
+			<string>Θρηνουμαι: θρηνω, οδυρομαι</string>
+		</array>
+	</dict>
+	<dict>
+		<key>dictLetter</key>
+		<string>Ι</string>
+		<key>dictWords</key>
+		<array>
+			<string>Ιδια: ακπριβως, απαραλλακτως</string>
+		</array>
+	</dict>
+	<dict>
+		<key>dictLetter</key>
+		<string>Κ</string>
+		<key>dictWords</key>
+		<array>
+			<string>Καθολικος: αληθης, πραγματικος</string>
+			<string>Κακαποδιδω: διδω η λαμβανω κακον τελος</string>
+			<string>Κακαφορεσι: υποφια</string>
+			<string>Κακοσαρκιδα: κακη, η λαμβανω κακον τελος</string>
+			<string>Κακοσυβαστος: δυσκολος ανθρωπος</string>
+			<string>Καλαμαρθηκη: καλαμαροθηκη, καλαμαρι</string>
+			<string>Καλοπιχερος: ο εχων καλον χερικον, ευοιωνος, αισιος</string>
+			<string>Καμμυω (χαμνυω): καταμυω, κλειω τους οφθαλμους</string>
+			<string>Καμωσουδια: καμωματα, το εργοχειρον</string>
+			<string>Κανισκι: δωρον, Κανισκευγω δωρουμαι</string>
+			<string>Κασσιδι: κρανος, περικεφαλαια</string>
+			<string>Καταλαγιαζω: ησυχαζω, κατα τασσω, αναπαυομαι</string>
+			<string>Καταρδινιαζω: ομαι, ετοιμαζω, παρασκευαζω- ομαι</string>
+			<string>Κατασκεπασι: στενωχωρια, λιποθυμια</string>
+			<string>Καταστασκεπασι: ηλικιωμενος</string>
+			<string>Κατασταμενος: ησυχαζω, ηρεμω</string>
+			<string>Κατατασσω: κρυφιως, αφανως</string>
+			<string>Καταχωστα: κρυφιως, αφανως</string>
+			<string>Κατεχος και κατεχαρης: ειδημων, εμπειρος</string>
+			<string>Κατηγορημενος: καταβεβλημενος, αδυνατισμενος</string>
+			<string>Κατηγορω-ουμαι: στενοχωρω, στενοχωρουμαι, καταθλιβω</string>
+			<string>Κεντω: =1) κεντριζω, 2) καιω, καιομαι</string>
+			<string>Κιβουρι: φερετρον, θηκη νεκρου</string>
+			<string>Κιολα: ηδη</string>
+			<string>Κλιτος: κατηφης, αθυμος</string>
+			<string>Κλιτοτη: και η Κλιτοτητα, ταπεινοτης, σεβασμος </string>
+			<string>Κνογελω: υπομειδιω</string>
+			<string>Κοκκα: εντομη, εγκοπη</string>
+			<string>Κοκκιαζω: τοποθετω το  βελος εις την νευραν του τοξου, ινα εκτοξευσω</string>
+			<string>Κομπωνω: ομαι απατω −ωμαι κομπωμα, απατη</string>
+			<string>Κομανια: πληγη, πληγμα</string>
+			<string>Κοπελλιαρης: νεος, νεανιας</string>
+			<string>Κορατζα: θωραξ</string>
+			<string>Κουζουλος: ανοητος, μωρος κουζουλαδα</string>
+			<string>Κουλουμουντριζω: κουτρουβαλω, τσυμπαρω Κουλουμουντρισμα</string>
+			<string>Κουντουρος: βραχυς, κοντος</string>
+			<string>Κουραδι: ποιμνιον, το κοπαδι</string>
+			<string>Κουντρουλης: κουρεμενος φαλακρος</string>
+			<string>Κουτσουνα: κουκλα τα Κουτσουναρακι οι κουκλες</string>
+			<string>Κουτσουναρι και υποκορ: Κουτσουναρακι κρουνος, μικρος κρουνος</string>
+			<string>Κουφος: το κουφαρι, ο θωραξ</string>
+			<string>Κτασσομαι: εκτασσομαι</string>
+			<string>Κτημα: το κτηνος, αλογον </string>
+		</array>
+	</dict>
+	<dict>
+		<key>dictLetter</key>
+		<string>Λ</string>
+		<key>dictWords</key>
+		<array>
+			<string>Λαβαινω: αναπτω, φλεγομαι ηλαβα εχει την σημασιν του επαθον, προσεληθην νοσου και λαμπανω</string>
+			<string>Λαβρα: φλοξ, καυμα, παθημα</string>
+			<string>Λαλα: μαμμη, προμητωρ</string>
+			<string>Λαμπανω:</string>
+			<string>Λιμιωνας:</string>
+			<string>Λουκτουκιω: κλαιω μετα λυγμων, λυζω</string>
+			<string>Λοχη: γλωσσα πυρος, φλοξ</string>
+		</array>
+	</dict>
+	<dict>
+		<key>dictLetter</key>
+		<string>Μ</string>
+		<key>dictWords</key>
+		<array>
+			<string>Μαγγανον: πιεστηριον</string>
+			<string>Μαγνια: υφασμα λεπτον και αραιον</string>
+			<string>Μαλια: μαχη, πολεμος Μαλωνω = πολεμω, αγωνιζομαι</string>
+			<string>Μαλλιος: και Μαλλιοστας, μαλλον</string>
+			<string>Μαντατο: </string>
+			<string>Μαπγωνω:</string>
+			<string>Μετοχι:</string>
+			<string>Μηλιγκας:</string>
+			<string>Μισαφορμαρης:</string>
+			<string>Μισσευγω:</string>
+			<string>Μνεγω:</string>
+			<string>Μοδος:</string>
+			<string>Μοιαζει:</string>
+			<string>Μοιαστος:</string>
+			<string>Μονοις:</string>
+			<string>Μονιταρου:</string>
+			<string>Μοτο:</string>
+			<string>Μουγκαλιζομαι:</string>
+			<string>Μουγκριζω:</string>
+			<string>Μουλλωνω</string>
+			<string>Μουρτζινος:</string>
+			<string>Μυσσω:</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name </key>
+		<string>Ξ</string>
+		<key>dictWords</key>
+		<array>
+			<string>Ξαζω: αξιζω, εχω αξιαν</string>
+			<string>Ξαμωνω: σημαδευω, σκοπευω</string>
+			<string>Ξαργιτου: και αξαργιτου επιτηδες, απο σκοπου</string>
+			<string>Ξαφορμιζω:</string>
+			<string>Ξεγκουσευγω:</string>
+			<string>Ξεγκουσμενος:</string>
+			<string>Ξεμηστευγω:</string>
+			<string>Ξεπεριοριζομαι:</string>
+			<string>Ξεστηχου:</string>
+			<string>Ξεχουρδισμενος:</string>
+			<string>Ξιφαρι:</string>
+			<string>Ξωφαλσος:</string>
+		</array>
+	</dict>
+	<dict>
+		<key>dictLetter</key>
+		<string>Ο</string>
+		<key>dictWords</key>
+		<array>
+			<string>Ογκια: ουγκια, μονας βαρους</string>
+			<string>Οιμε: οιμοι</string>
+			<string>Οκνευγω: αμελω</string>
+			<string>Οκνιαρης:</string>
+			<string>Ορδινια:</string>
+			<string>Ορδινιαζω:</string>
+		</array>
+	</dict>
+	<dict>
+		<key>dictLetter</key>
+		<string>Π</string>
+		<key>dictWords</key>
+		<array>
+			<string>Πα συγκεκομμενος: τυπος αωτι του παω, παεις, παει
+Πα συγκεκομμενος τυπος αωτι του παω, παεις, παει</string>
+			<string>Παβιονι: παβιονια, σχηναι, στρατοπεδον </string>
+			<string>Παιδα: παιδωμη, βασανος, στεωοχωρια, ταλαιπωρια</string>
+			<string>Παλετσα:</string>
+			<string>Παντησμ:</string>
+			<string>Παραζιγανευγω:</string>
+			<string>Παραθεσμια:</string>
+			<string>Παραπετρα:</string>
+			<string>Παραρω:</string>
+			<string>Παραστολιαζω:</string>
+		</array>
+	</dict>
+	<dict>
+		<key>dictLetter</key>
+		<string>Ρ</string>
+		<key>dictWords</key>
+		<array>
+			<string>Ραθυμνω: στενοχωρουμαι, αδημονω</string>
+			<string>Ρεμπομαι: επαιρομαι, υπερηφανευομαι</string>
+			<string>Ριγουλακι: αυλακιοω, ρυακιον</string>
+			<string>Ριζικον:</string>
+			<string>Ριζιμιος:</string>
+			<string>Ριμαρω:</string>
+			<string>Ρογα:</string>
+		</array>
+	</dict>
+	<dict>
+		<key>dictLetter</key>
+		<string>Σ</string>
+		<key>dictWords</key>
+		<array>
+			<string>Σειρωνω: σουρωνω, στραγγιζω</string>
+			<string>Σκιας: τουλαχιστον </string>
+			<string>Σκιασμα: σκιαγραφημα, σκιτσο</string>
+			<string>Σκληρια:</string>
+			<string>Σκοπος:</string>
+			<string>Σκουταρι:</string>
+			<string>Σκριτοριον:</string>
+			<string>Σοθεματα:</string>
+			<string>Σοθετω:</string>
+			<string>Σουσσουμι:</string>
+		</array>
+	</dict>
+	<dict>
+		<key>dictLetter</key>
+		<string>Τ</string>
+		<key>dictWords</key>
+		<array>
+			<string>Ταγη: βρωμη</string>
+			<string>Ταχια: αυριον γρηγορα</string>
+			<string>Ταχυτερινη: πρωια</string>
+			<string>Τζαγκουρνιζω: τζουκρανιζω</string>
+			<string>Τζατζαλα: η τσατσαλα τα, πακη, φορεματα ρακωδη</string>
+			<string>Τζευδος: τραυλος, βραδυγλωσσος</string>
+			<string>Τζινω: λακτιζω η τζινια, το λακτισμα</string>
+			<string>Τζογια: στεφανος, κοσμημα</string>
+			<string>Τζουρλω: η τσουρλω κατακυλιομαι, κυλινδουμαι</string>
+			<string>Το χρονιλος: συνδεσμος, οτε, ευθυς ως</string>
+		</array>
+	</dict>
+	<dict>
+		<key>dictLetter</key>
+		<string>Φ</string>
+		<key>dictWords</key>
+		<array>
+			<string>Φανεια: εμφανεια, εμφανισις</string>
+			<string>Φαντος: υφαντος, υφασμενος</string>
+			<string>Φαρι: Ιππος, αλογον</string>
+			<string>Φλαγω: φλακη, φλακιαζω, φυλασσω, φυλακη, φυλακιζω</string>
+			<string>Φλακατορας: δεσμοφυλαξ</string>
+			<string>Φλετζακιδα: σχιζα, πελεκουδα</string>
+			<string>Φορος: αγορα, η πλατεια</string>
+			<string>Φουσσατον: στρατος, στρατευμα</string>
+			<string>Φταξουσιο: το αυτεξουσιον</string>
+		</array>
+	</dict>
+	<dict>
+		<key>dictLetter</key>
+		<string>Χ</string>
+		<key>dictWords</key>
+		<array>
+			<string>Χαλαβρο: βραχοι χαλασμενοι και κατακυλισθεντες εκ του βουνου</string>
+			<string>Χαλικισμος: θορυβος ο γινομενος οταν βαδιζη τις επι χαλικων </string>
+			<string>Χαρακι: βραχος, πετρα μεγαλη</string>
+			<string>Χαρατσι: φορος, δασμος</string>
+			<string>Χιλιμιωτριζω και χλιμιζω: επι ιππου χρεμετιζω</string>
+			<string>Χοχλος: κοχλασμα ζεοντος οδατος, ζεσις, βρασις</string>
+			<string>Χρηζω: εχω αναγκην</string>
+		</array>
+	</dict>
+	<dict>
+		<key>dictLetter</key>
+		<string>Ψ</string>
+		<key>dictWords</key>
+		<array>
+			<string>Ψεγος: φεγαδι</string>
+			<string>Ψεγω: κατηγορω, μεμφομαι</string>
+			<string>Ψη: η ψεγαδι</string>
+			<string>Ψιχαλιδα: η φιχαλα, φεκας</string>
+			<string>Ψομομαρτυρω: φευδη μαρτυρω</string>
+			<string>Ψυγομαραινω- ομαι: φυγομαι και μαραινομαι</string>
+			<string>Ψυγω: ψυγομαι, ξηραινω, ξηραινομαι, μαραινομαι</string>
+			<string>Ψυχαρι: ο λυχωοσβηστης</string>
+		</array>
+	</dict>
+	<dict>
+		<key>dictLetter</key>
+		<string>Ω</string>
+		<key>dictWords</key>
+		<array>
+			<string>Ωριοπλουμος: περικαλης</string>
+			<string>Ως: εως, μεχρι</string>
+		</array>
+	</dict>
+</array>
+</plist>

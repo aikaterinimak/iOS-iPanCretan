@@ -2,17 +2,21 @@
 //  PYAAppDelegate.m
 //  iPanCretan
 //
-//  Created by Aikaterini Makridakis on 12/15/13.
 //  Copyright (c) 2013 Aikaterini Makridakis. All rights reserved.
 //
 
+
+
 #import "PYAAppDelegate.h"
+#import "CretanDictTableViewController.h"
+
 
 @implementation PYAAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    
     return YES;
 }
 							

@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D81B935A18763FE0008ACA75 /* FriendCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D81B935918763FE0008ACA75 /* FriendCell.m */; };
+		D81B935F187685C4008ACA75 /* MusicianFinderCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D81B935E187685C4008ACA75 /* MusicianFinderCell.m */; };
+		D81B9363187687F7008ACA75 /* MusicianFinderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D81B9362187687F7008ACA75 /* MusicianFinderViewController.m */; };
+		D81B936918774C17008ACA75 /* FriendDatePickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D81B936818774C17008ACA75 /* FriendDatePickerViewController.m */; };
+		D81B936C18774CB3008ACA75 /* MusicianDatePickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D81B936B18774CB3008ACA75 /* MusicianDatePickerViewController.m */; };
+		D82CA94018615AF3006418D1 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D82CA93F18615AF3006418D1 /* LoginViewController.m */; };
+		D82CA94318615B05006418D1 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D82CA94218615B05006418D1 /* SettingsViewController.m */; };
+		D84A9847187513BE00975FCA /* CategoryPickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D84A9846187513BE00975FCA /* CategoryPickerViewController.m */; };
 		D880EDA8185E1A1900190B94 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D880EDA7185E1A1900190B94 /* Foundation.framework */; };
 		D880EDAA185E1A1900190B94 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D880EDA9185E1A1900190B94 /* CoreGraphics.framework */; };
 		D880EDAC185E1A1900190B94 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D880EDAB185E1A1900190B94 /* UIKit.framework */; };
@@ -15,14 +23,28 @@
 		D880EDB8185E1A1900190B94 /* PYAAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D880EDB7185E1A1900190B94 /* PYAAppDelegate.m */; };
 		D880EDBB185E1A1900190B94 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D880EDB9185E1A1900190B94 /* Main_iPhone.storyboard */; };
 		D880EDBE185E1A1900190B94 /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D880EDBC185E1A1900190B94 /* Main_iPad.storyboard */; };
-		D880EDC1185E1A1900190B94 /* PYAFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D880EDC0185E1A1900190B94 /* PYAFirstViewController.m */; };
-		D880EDC4185E1A1900190B94 /* PYASecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D880EDC3185E1A1900190B94 /* PYASecondViewController.m */; };
+		D880EDC1185E1A1900190B94 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D880EDC0185E1A1900190B94 /* HomeViewController.m */; };
+		D880EDC4185E1A1900190B94 /* CalendarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D880EDC3185E1A1900190B94 /* CalendarViewController.m */; };
 		D880EDC6185E1A1900190B94 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D880EDC5185E1A1900190B94 /* Images.xcassets */; };
 		D880EDCD185E1A1900190B94 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D880EDCC185E1A1900190B94 /* XCTest.framework */; };
 		D880EDCE185E1A1900190B94 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D880EDA7185E1A1900190B94 /* Foundation.framework */; };
 		D880EDCF185E1A1900190B94 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D880EDAB185E1A1900190B94 /* UIKit.framework */; };
 		D880EDD7185E1A1900190B94 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D880EDD5185E1A1900190B94 /* InfoPlist.strings */; };
 		D880EDD9185E1A1900190B94 /* iPanCretanTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D880EDD8185E1A1900190B94 /* iPanCretanTests.m */; };
+		D880EDE7185E6C9500190B94 /* CretanDictTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D880EDE6185E6C9500190B94 /* CretanDictTableViewController.m */; };
+		D880EDEF185E720100190B94 /* DictDefinition.m in Sources */ = {isa = PBXBuildFile; fileRef = D880EDEE185E720100190B94 /* DictDefinition.m */; };
+		D880EDF6185E73F700190B94 /* DictSectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = D880EDF5185E73F700190B94 /* DictSectionView.m */; };
+		D880EDF9185EA6AA00190B94 /* DictSectionInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = D880EDF8185EA6AA00190B94 /* DictSectionInfo.m */; };
+		D880EDFE185FFC4300190B94 /* DictionaryList.plist in Resources */ = {isa = PBXBuildFile; fileRef = D880EDFD185FFC4300190B94 /* DictionaryList.plist */; };
+		D880EE00185FFC9300190B94 /* YouthChapters.plist in Resources */ = {isa = PBXBuildFile; fileRef = D880EDFF185FFC9300190B94 /* YouthChapters.plist */; };
+		D880EE03185FFF3000190B94 /* ChapterTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D880EE02185FFF3000190B94 /* ChapterTableViewController.m */; };
+		D880EE06186005FD00190B94 /* ChapterCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D880EE05186005FD00190B94 /* ChapterCell.m */; };
+		D880EE0918602C5700190B94 /* MantinadesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D880EE0818602C5700190B94 /* MantinadesViewController.m */; };
+		D880EE1518602EFA00190B94 /* FriendFinderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D880EE1418602EFA00190B94 /* FriendFinderViewController.m */; };
+		D880EE18186112FC00190B94 /* AddMantinadaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D880EE17186112FC00190B94 /* AddMantinadaViewController.m */; };
+		D880EE1B1861131500190B94 /* BrowseMantinadesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D880EE1A1861131500190B94 /* BrowseMantinadesViewController.m */; };
+		D880EE201861162900190B94 /* MantinadaCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D880EE1F1861162900190B94 /* MantinadaCell.m */; };
+		D880EE2718612FBC00190B94 /* MantinadesList.plist in Resources */ = {isa = PBXBuildFile; fileRef = D880EE2618612FBC00190B94 /* MantinadesList.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +58,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D81B935818763FE0008ACA75 /* FriendCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FriendCell.h; sourceTree = "<group>"; };
+		D81B935918763FE0008ACA75 /* FriendCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FriendCell.m; sourceTree = "<group>"; };
+		D81B935D187685C4008ACA75 /* MusicianFinderCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MusicianFinderCell.h; sourceTree = "<group>"; };
+		D81B935E187685C4008ACA75 /* MusicianFinderCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MusicianFinderCell.m; sourceTree = "<group>"; };
+		D81B9361187687F7008ACA75 /* MusicianFinderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MusicianFinderViewController.h; sourceTree = "<group>"; };
+		D81B9362187687F7008ACA75 /* MusicianFinderViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MusicianFinderViewController.m; sourceTree = "<group>"; };
+		D81B936718774C17008ACA75 /* FriendDatePickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FriendDatePickerViewController.h; sourceTree = "<group>"; };
+		D81B936818774C17008ACA75 /* FriendDatePickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FriendDatePickerViewController.m; sourceTree = "<group>"; };
+		D81B936A18774CB3008ACA75 /* MusicianDatePickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MusicianDatePickerViewController.h; sourceTree = "<group>"; };
+		D81B936B18774CB3008ACA75 /* MusicianDatePickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MusicianDatePickerViewController.m; sourceTree = "<group>"; };
+		D82CA93E18615AF3006418D1 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
+		D82CA93F18615AF3006418D1 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
+		D82CA94118615B05006418D1 /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		D82CA94218615B05006418D1 /* SettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
+		D84A9845187513BE00975FCA /* CategoryPickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CategoryPickerViewController.h; sourceTree = "<group>"; };
+		D84A9846187513BE00975FCA /* CategoryPickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CategoryPickerViewController.m; sourceTree = "<group>"; };
 		D880EDA4185E1A1900190B94 /* iPanCretan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iPanCretan.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D880EDA7185E1A1900190B94 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D880EDA9185E1A1900190B94 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -48,16 +86,41 @@
 		D880EDB7185E1A1900190B94 /* PYAAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PYAAppDelegate.m; sourceTree = "<group>"; };
 		D880EDBA185E1A1900190B94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
 		D880EDBD185E1A1900190B94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPad.storyboard; sourceTree = "<group>"; };
-		D880EDBF185E1A1900190B94 /* PYAFirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PYAFirstViewController.h; sourceTree = "<group>"; };
-		D880EDC0185E1A1900190B94 /* PYAFirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PYAFirstViewController.m; sourceTree = "<group>"; };
-		D880EDC2185E1A1900190B94 /* PYASecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PYASecondViewController.h; sourceTree = "<group>"; };
-		D880EDC3185E1A1900190B94 /* PYASecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PYASecondViewController.m; sourceTree = "<group>"; };
+		D880EDBF185E1A1900190B94 /* HomeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		D880EDC0185E1A1900190B94 /* HomeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
+		D880EDC2185E1A1900190B94 /* CalendarViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CalendarViewController.h; sourceTree = "<group>"; };
+		D880EDC3185E1A1900190B94 /* CalendarViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CalendarViewController.m; sourceTree = "<group>"; };
 		D880EDC5185E1A1900190B94 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		D880EDCB185E1A1900190B94 /* iPanCretanTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iPanCretanTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D880EDCC185E1A1900190B94 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		D880EDD4185E1A1900190B94 /* iPanCretanTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iPanCretanTests-Info.plist"; sourceTree = "<group>"; };
 		D880EDD6185E1A1900190B94 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D880EDD8185E1A1900190B94 /* iPanCretanTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iPanCretanTests.m; sourceTree = "<group>"; };
+		D880EDE5185E6C9500190B94 /* CretanDictTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CretanDictTableViewController.h; sourceTree = "<group>"; };
+		D880EDE6185E6C9500190B94 /* CretanDictTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CretanDictTableViewController.m; sourceTree = "<group>"; };
+		D880EDED185E720100190B94 /* DictDefinition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DictDefinition.h; sourceTree = "<group>"; };
+		D880EDEE185E720100190B94 /* DictDefinition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DictDefinition.m; sourceTree = "<group>"; };
+		D880EDF4185E73F700190B94 /* DictSectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DictSectionView.h; sourceTree = "<group>"; };
+		D880EDF5185E73F700190B94 /* DictSectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DictSectionView.m; sourceTree = "<group>"; };
+		D880EDF7185EA6AA00190B94 /* DictSectionInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DictSectionInfo.h; sourceTree = "<group>"; };
+		D880EDF8185EA6AA00190B94 /* DictSectionInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DictSectionInfo.m; sourceTree = "<group>"; };
+		D880EDFD185FFC4300190B94 /* DictionaryList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DictionaryList.plist; sourceTree = "<group>"; };
+		D880EDFF185FFC9300190B94 /* YouthChapters.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = YouthChapters.plist; sourceTree = "<group>"; };
+		D880EE01185FFF3000190B94 /* ChapterTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChapterTableViewController.h; sourceTree = "<group>"; };
+		D880EE02185FFF3000190B94 /* ChapterTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChapterTableViewController.m; sourceTree = "<group>"; };
+		D880EE04186005FD00190B94 /* ChapterCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChapterCell.h; sourceTree = "<group>"; };
+		D880EE05186005FD00190B94 /* ChapterCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChapterCell.m; sourceTree = "<group>"; };
+		D880EE0718602C5700190B94 /* MantinadesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MantinadesViewController.h; sourceTree = "<group>"; };
+		D880EE0818602C5700190B94 /* MantinadesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MantinadesViewController.m; sourceTree = "<group>"; };
+		D880EE1318602EFA00190B94 /* FriendFinderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FriendFinderViewController.h; sourceTree = "<group>"; };
+		D880EE1418602EFA00190B94 /* FriendFinderViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FriendFinderViewController.m; sourceTree = "<group>"; };
+		D880EE16186112FB00190B94 /* AddMantinadaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddMantinadaViewController.h; sourceTree = "<group>"; };
+		D880EE17186112FC00190B94 /* AddMantinadaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddMantinadaViewController.m; sourceTree = "<group>"; };
+		D880EE191861131500190B94 /* BrowseMantinadesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BrowseMantinadesViewController.h; sourceTree = "<group>"; };
+		D880EE1A1861131500190B94 /* BrowseMantinadesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BrowseMantinadesViewController.m; sourceTree = "<group>"; };
+		D880EE1E1861162900190B94 /* MantinadaCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MantinadaCell.h; sourceTree = "<group>"; };
+		D880EE1F1861162900190B94 /* MantinadaCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MantinadaCell.m; sourceTree = "<group>"; };
+		D880EE2618612FBC00190B94 /* MantinadesList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = MantinadesList.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +147,65 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D81B935718763F23008ACA75 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				D81B935818763FE0008ACA75 /* FriendCell.h */,
+				D81B935918763FE0008ACA75 /* FriendCell.m */,
+				D81B936718774C17008ACA75 /* FriendDatePickerViewController.h */,
+				D81B936818774C17008ACA75 /* FriendDatePickerViewController.m */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		D81B935B1876846F008ACA75 /* Finder */ = {
+			isa = PBXGroup;
+			children = (
+				D880EE1218602EDB00190B94 /* FriendFinder */,
+				D81B935C1876852E008ACA75 /* Musician Finder */,
+			);
+			name = Finder;
+			sourceTree = "<group>";
+		};
+		D81B935C1876852E008ACA75 /* Musician Finder */ = {
+			isa = PBXGroup;
+			children = (
+				D81B9361187687F7008ACA75 /* MusicianFinderViewController.h */,
+				D81B9362187687F7008ACA75 /* MusicianFinderViewController.m */,
+				D81B9360187685C8008ACA75 /* Resources */,
+			);
+			name = "Musician Finder";
+			sourceTree = "<group>";
+		};
+		D81B9360187685C8008ACA75 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				D81B935D187685C4008ACA75 /* MusicianFinderCell.h */,
+				D81B935E187685C4008ACA75 /* MusicianFinderCell.m */,
+				D81B936A18774CB3008ACA75 /* MusicianDatePickerViewController.h */,
+				D81B936B18774CB3008ACA75 /* MusicianDatePickerViewController.m */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		D81B9364187748E7008ACA75 /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				D82CA93E18615AF3006418D1 /* LoginViewController.h */,
+				D82CA93F18615AF3006418D1 /* LoginViewController.m */,
+			);
+			name = Login;
+			sourceTree = "<group>";
+		};
+		D81B9365187748F1008ACA75 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				D82CA94118615B05006418D1 /* SettingsViewController.h */,
+				D82CA94218615B05006418D1 /* SettingsViewController.m */,
+			);
+			name = Settings;
+			sourceTree = "<group>";
+		};
 		D880ED9B185E1A1900190B94 = {
 			isa = PBXGroup;
 			children = (
@@ -117,14 +239,8 @@
 		D880EDAD185E1A1900190B94 /* iPanCretan */ = {
 			isa = PBXGroup;
 			children = (
-				D880EDB6185E1A1900190B94 /* PYAAppDelegate.h */,
-				D880EDB7185E1A1900190B94 /* PYAAppDelegate.m */,
-				D880EDB9185E1A1900190B94 /* Main_iPhone.storyboard */,
-				D880EDBC185E1A1900190B94 /* Main_iPad.storyboard */,
-				D880EDBF185E1A1900190B94 /* PYAFirstViewController.h */,
-				D880EDC0185E1A1900190B94 /* PYAFirstViewController.m */,
-				D880EDC2185E1A1900190B94 /* PYASecondViewController.h */,
-				D880EDC3185E1A1900190B94 /* PYASecondViewController.m */,
+				D880EE0B18602DC300190B94 /* MAIN */,
+				D880EE0C18602DDA00190B94 /* TabViews */,
 				D880EDC5185E1A1900190B94 /* Images.xcassets */,
 				D880EDAE185E1A1900190B94 /* Supporting Files */,
 			);
@@ -136,7 +252,6 @@
 			children = (
 				D880EDAF185E1A1900190B94 /* iPanCretan-Info.plist */,
 				D880EDB0185E1A1900190B94 /* InfoPlist.strings */,
-				D880EDB3185E1A1900190B94 /* main.m */,
 				D880EDB5185E1A1900190B94 /* iPanCretan-Prefix.pch */,
 			);
 			name = "Supporting Files";
@@ -158,6 +273,147 @@
 				D880EDD5185E1A1900190B94 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D880EDF3185E73A100190B94 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				D880EDF4185E73F700190B94 /* DictSectionView.h */,
+				D880EDF5185E73F700190B94 /* DictSectionView.m */,
+				D880EDF7185EA6AA00190B94 /* DictSectionInfo.h */,
+				D880EDF8185EA6AA00190B94 /* DictSectionInfo.m */,
+				D880EDED185E720100190B94 /* DictDefinition.h */,
+				D880EDEE185E720100190B94 /* DictDefinition.m */,
+				D880EDFD185FFC4300190B94 /* DictionaryList.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		D880EDFC185FFC1C00190B94 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				D880EDFF185FFC9300190B94 /* YouthChapters.plist */,
+				D880EE04186005FD00190B94 /* ChapterCell.h */,
+				D880EE05186005FD00190B94 /* ChapterCell.m */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		D880EE0A18602D7800190B94 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				D84A9845187513BE00975FCA /* CategoryPickerViewController.h */,
+				D84A9846187513BE00975FCA /* CategoryPickerViewController.m */,
+				D880EE1E1861162900190B94 /* MantinadaCell.h */,
+				D880EE1F1861162900190B94 /* MantinadaCell.m */,
+				D880EE2618612FBC00190B94 /* MantinadesList.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		D880EE0B18602DC300190B94 /* MAIN */ = {
+			isa = PBXGroup;
+			children = (
+				D880EDB6185E1A1900190B94 /* PYAAppDelegate.h */,
+				D880EDB7185E1A1900190B94 /* PYAAppDelegate.m */,
+				D880EDB3185E1A1900190B94 /* main.m */,
+				D880EDB9185E1A1900190B94 /* Main_iPhone.storyboard */,
+				D880EDBC185E1A1900190B94 /* Main_iPad.storyboard */,
+			);
+			name = MAIN;
+			sourceTree = "<group>";
+		};
+		D880EE0C18602DDA00190B94 /* TabViews */ = {
+			isa = PBXGroup;
+			children = (
+				D880EE0D18602DF200190B94 /* Home */,
+				D880EE0E18602DFA00190B94 /* CretanDictionary */,
+				D880EE0F18602E2C00190B94 /* Chapters */,
+				D880EE1118602E7C00190B94 /* Mantinades */,
+				D81B935B1876846F008ACA75 /* Finder */,
+				D880EE1018602E4E00190B94 /* Calendar */,
+			);
+			name = TabViews;
+			sourceTree = "<group>";
+		};
+		D880EE0D18602DF200190B94 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				D880EDBF185E1A1900190B94 /* HomeViewController.h */,
+				D880EDC0185E1A1900190B94 /* HomeViewController.m */,
+				D81B9364187748E7008ACA75 /* Login */,
+				D81B9365187748F1008ACA75 /* Settings */,
+			);
+			name = Home;
+			sourceTree = "<group>";
+		};
+		D880EE0E18602DFA00190B94 /* CretanDictionary */ = {
+			isa = PBXGroup;
+			children = (
+				D880EDE5185E6C9500190B94 /* CretanDictTableViewController.h */,
+				D880EDE6185E6C9500190B94 /* CretanDictTableViewController.m */,
+				D880EDF3185E73A100190B94 /* Resources */,
+			);
+			name = CretanDictionary;
+			sourceTree = "<group>";
+		};
+		D880EE0F18602E2C00190B94 /* Chapters */ = {
+			isa = PBXGroup;
+			children = (
+				D880EE01185FFF3000190B94 /* ChapterTableViewController.h */,
+				D880EE02185FFF3000190B94 /* ChapterTableViewController.m */,
+				D880EDFC185FFC1C00190B94 /* Resources */,
+			);
+			name = Chapters;
+			sourceTree = "<group>";
+		};
+		D880EE1018602E4E00190B94 /* Calendar */ = {
+			isa = PBXGroup;
+			children = (
+				D880EDC2185E1A1900190B94 /* CalendarViewController.h */,
+				D880EDC3185E1A1900190B94 /* CalendarViewController.m */,
+			);
+			name = Calendar;
+			sourceTree = "<group>";
+		};
+		D880EE1118602E7C00190B94 /* Mantinades */ = {
+			isa = PBXGroup;
+			children = (
+				D880EE0718602C5700190B94 /* MantinadesViewController.h */,
+				D880EE0818602C5700190B94 /* MantinadesViewController.m */,
+				D880EE1C186115D600190B94 /* Add */,
+				D880EE1D186115DD00190B94 /* Browse */,
+			);
+			name = Mantinades;
+			sourceTree = "<group>";
+		};
+		D880EE1218602EDB00190B94 /* FriendFinder */ = {
+			isa = PBXGroup;
+			children = (
+				D880EE1318602EFA00190B94 /* FriendFinderViewController.h */,
+				D880EE1418602EFA00190B94 /* FriendFinderViewController.m */,
+				D81B935718763F23008ACA75 /* Resources */,
+			);
+			name = FriendFinder;
+			sourceTree = "<group>";
+		};
+		D880EE1C186115D600190B94 /* Add */ = {
+			isa = PBXGroup;
+			children = (
+				D880EE16186112FB00190B94 /* AddMantinadaViewController.h */,
+				D880EE17186112FC00190B94 /* AddMantinadaViewController.m */,
+			);
+			name = Add;
+			sourceTree = "<group>";
+		};
+		D880EE1D186115DD00190B94 /* Browse */ = {
+			isa = PBXGroup;
+			children = (
+				D880EE191861131500190B94 /* BrowseMantinadesViewController.h */,
+				D880EE1A1861131500190B94 /* BrowseMantinadesViewController.m */,
+				D880EE0A18602D7800190B94 /* Resources */,
+			);
+			name = Browse;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -237,8 +493,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D880EE00185FFC9300190B94 /* YouthChapters.plist in Resources */,
 				D880EDBE185E1A1900190B94 /* Main_iPad.storyboard in Resources */,
+				D880EE2718612FBC00190B94 /* MantinadesList.plist in Resources */,
 				D880EDC6185E1A1900190B94 /* Images.xcassets in Resources */,
+				D880EDFE185FFC4300190B94 /* DictionaryList.plist in Resources */,
 				D880EDBB185E1A1900190B94 /* Main_iPhone.storyboard in Resources */,
 				D880EDB2185E1A1900190B94 /* InfoPlist.strings in Resources */,
 			);
@@ -259,10 +518,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D880EDC1185E1A1900190B94 /* PYAFirstViewController.m in Sources */,
-				D880EDC4185E1A1900190B94 /* PYASecondViewController.m in Sources */,
+				D880EDEF185E720100190B94 /* DictDefinition.m in Sources */,
+				D880EE18186112FC00190B94 /* AddMantinadaViewController.m in Sources */,
+				D880EE1B1861131500190B94 /* BrowseMantinadesViewController.m in Sources */,
+				D880EDF9185EA6AA00190B94 /* DictSectionInfo.m in Sources */,
+				D880EDC1185E1A1900190B94 /* HomeViewController.m in Sources */,
+				D880EE201861162900190B94 /* MantinadaCell.m in Sources */,
+				D81B936C18774CB3008ACA75 /* MusicianDatePickerViewController.m in Sources */,
+				D81B936918774C17008ACA75 /* FriendDatePickerViewController.m in Sources */,
+				D880EDC4185E1A1900190B94 /* CalendarViewController.m in Sources */,
+				D81B935F187685C4008ACA75 /* MusicianFinderCell.m in Sources */,
+				D81B935A18763FE0008ACA75 /* FriendCell.m in Sources */,
+				D81B9363187687F7008ACA75 /* MusicianFinderViewController.m in Sources */,
+				D880EE03185FFF3000190B94 /* ChapterTableViewController.m in Sources */,
+				D82CA94018615AF3006418D1 /* LoginViewController.m in Sources */,
+				D82CA94318615B05006418D1 /* SettingsViewController.m in Sources */,
+				D84A9847187513BE00975FCA /* CategoryPickerViewController.m in Sources */,
 				D880EDB4185E1A1900190B94 /* main.m in Sources */,
+				D880EE1518602EFA00190B94 /* FriendFinderViewController.m in Sources */,
 				D880EDB8185E1A1900190B94 /* PYAAppDelegate.m in Sources */,
+				D880EDE7185E6C9500190B94 /* CretanDictTableViewController.m in Sources */,
+				D880EDF6185E73F700190B94 /* DictSectionView.m in Sources */,
+				D880EE0918602C5700190B94 /* MantinadesViewController.m in Sources */,
+				D880EE06186005FD00190B94 /* ChapterCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -481,6 +759,7 @@
 				D880EDDE185E1A1900190B94 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D880EDDF185E1A1900190B94 /* Build configuration list for PBXNativeTarget "iPanCretanTests" */ = {
 			isa = XCConfigurationList;
@@ -489,6 +768,7 @@
 				D880EDE1185E1A1900190B94 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

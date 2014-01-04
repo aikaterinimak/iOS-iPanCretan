@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Location</key>
+	<array>
+		<string>Salt Lake City, UT</string>
+		<string>Astoria, NY</string>
+		<string>Chicago, IL</string>
+		<string>Clearwater, FL</string>
+		<string>Los Angeles, CA</string>
+        <string>Springfield, MA</string>
+		<string>Cherry Hill, NJ</string>
+		<string>Sacramento, CA</string>
+	</array>
+	<key>Name</key>
+	<array>
+		<string>Minotavros</string>
+		<string>Labrys</string>
+		<string>Cretan Youth Chicago</string>
+		<string>Minos</string>
+		<string>Psiloriti Youth</string>
+        <string>Minos</string>
+		<string>Talos</string>
+		<string>H Psyxh Ths Kphths</string>
+	</array>
+	<key>ContactName</key>
+	<array>
+		<string>Mary Papadakis</string>
+		<string>Dean Marangoudakis</string>
+		<string>Katerina Makridakis</string>
+		<string>Alexia Protopapadakis</string>
+		<string>John Koulakis</string>
+        <string>Stamatis Moraitakis</string>
+		<string>Jospeh Antonakakis</string>
+		<string>Johnny LaBritt</string>
+	</array>
+	<key>ContactEmail</key>
+	<array>
+		<string>m.papadakis@hotmail.com</string>
+		<string>cvmarangos@gmail.com</string>
+		<string>aikaterinimak@hotmail.com</string>
+		<string>alexiaproto@yahoo.com</string>
+		<string>jkoulakis@gmail.com</string>
+        <string>smoraitakis@gmail.com</string>
+		<string>sifis@kphth.org</string>
+		<string>JLaBritt@aol.com</string>
+	</array>
+	<key>ContactPhone</key>
+	<array>
+		<string>801-864-5270</string>
+		<string>516-512-3711</string>
+		<string>330-554-6340</string>
+		<string>727-637-7696</string>
+		<string>818-434-4030</string>
+        <string>413-351-6879</string>
+		<string>856-767-5333</string>
+		<string>916-281-4020</string>
+	</array>
+</dict>
+</plist>

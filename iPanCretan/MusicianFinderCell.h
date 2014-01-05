@@ -11,7 +11,8 @@
 
 @interface MusicianFinderCell : UITableViewCell
 
-@property (weak, nonatomic) IBOutlet UIView *imgMusicianPic;
+
+@property (weak, nonatomic) IBOutlet UIImageView *imgMusicianPic;
 @property (weak, nonatomic) IBOutlet UILabel *lblMusicianLastFirstName;
 @property (weak, nonatomic) IBOutlet UILabel *lblMusicianPhone;
 @property (weak, nonatomic) IBOutlet UILabel *lblMusicianEmail;

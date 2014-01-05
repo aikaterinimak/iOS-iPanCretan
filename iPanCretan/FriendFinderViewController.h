@@ -20,12 +20,8 @@
 - (IBAction)btnSelectEndDate_Press:(id)sender;
 
 //labels for the start and end date
-@property (weak, nonatomic) IBOutlet UILabel *lblStartDate;
 @property (weak, nonatomic) IBOutlet UILabel *lblEndDate;
-
-//Button and press event for Search for Friends button
-- (IBAction)btnSearchForFriends_Press:(id)sender;
-@property (weak, nonatomic) IBOutlet UIButton *btnSearchForFriends;
+@property (weak, nonatomic) IBOutlet UILabel *lblStartDate;
 
 //container for the UIDatePicker
 @property (weak, nonatomic) IBOutlet UIView *viewDatePicker;
